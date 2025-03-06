@@ -1,0 +1,14 @@
+package comment;
+/**
+ * スッキリわかる　Java入門：第6章
+ * 
+ * @author haruna
+ *
+ */
+public class Sample04{
+	public static void main(String[] args) {
+		//練習６－１回答：
+		
+	}
+	
+}
