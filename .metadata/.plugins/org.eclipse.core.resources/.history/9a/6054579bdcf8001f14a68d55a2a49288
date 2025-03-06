@@ -1,0 +1,36 @@
+/**
+ * 第１章　プログラムの書き方
+ *
+ * @author haruna
+ * 
+ *
+ */
+
+public class Sample01{
+	public static void main (String[] args) {
+		//練習１ー１回答：
+		/**
+		 * ア：コンパイラ　
+		 * イ：インタプリタ
+		 * ウ：ソースコード　
+		 * エ：バイトコード　
+		 * オ：JVM
+		 * 
+		 */
+		//練習１－２回答：
+		int a = 3;
+		int b = 5;
+		int c = a * b;
+		System.out.println("縦幅３横幅５の長方形の面積は、" + c);
+		//練習１－３回答：
+		boolean p1 = true;
+		char p2 = '駆';
+//		float p3 = 3.14f;
+		double p3 = 3.14;
+		long p4 = 31415926853979L;
+		String p5 = "ミナトの攻撃！敵に１５ポイントのダメージを与えた。";
+		
+		
+		
+	}
+}
